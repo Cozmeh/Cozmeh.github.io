@@ -1,2 +1,11 @@
-# Hover-SearchEffect
-A webpage Hovering effect 
+# Search Effect
+
+An interactive hovering search effect for any webpage
+
+Effect type : interactive , animation , mini game
+
+![GitHub](https://img.shields.io/github/license/Cozmeh/Hover-SearchEffect?style=for-the-badge)
+
+# Tools
+
+![GitHub top language](https://img.shields.io/github/languages/top/Cozmeh/Hover-SearchEffect?style=for-the-badge)
