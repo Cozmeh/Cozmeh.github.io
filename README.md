@@ -11,4 +11,4 @@ Effect type : interactive , animation , mini game
 
 
 # Demo
-https://cozmeh.github.io/Hover-SearchEffect/
+https://cozmeh.github.io/Mouse-Movement-Effect/
