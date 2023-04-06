@@ -12,4 +12,4 @@ Effect type : interactive , animation , mini game
 
 # Demo
 
-https://cozmeh.github.io/
+cozmeh.github.io/MouseEffect/
